@@ -1,4 +1,4 @@
-# Spatial-Accessiblity-in-Singapore
+# Spatial Accessiblity Scores by Planning Area in Singapore
 Fully functional dashboard application developed within 48 hours which won First Place in the IDE@DataSpark Open Hackathon.
 
 Used DataSpark’s Mobility Intelligence APIs to create a fully-functional dashboard application for users to assess Spatial Accessibility Scores by Planning Areas in Singapore. Extracted and cleaned data with R, Node.js and Excel, Visualizations with Tableau. Formulated a statistical model to compare accessibility to amenities and overall accessibility across regions in Singapore.
