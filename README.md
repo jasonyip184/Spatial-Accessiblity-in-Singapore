@@ -1,6 +1,7 @@
 # Spatial Accessiblity Scores by Planning Area in Singapore
 Fully functional dashboard application developed within 48 hours which won First Place in the IDE@DataSpark Open Hackathon.
 
+![picture](ss.jpg)
 See:
 https://www.datasparkanalytics.com/post/working-hd-tertiary-students-impress-at-ide-dataspark-hackathon
 
